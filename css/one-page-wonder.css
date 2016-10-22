@@ -70,10 +70,12 @@ footer {
 
 @media(max-width:1200px) {
     .headline h1 {
+        font-family: Apple Chancery;
         font-size: 140px;
     }
 
     .headline h2 {
+        font-family: Tw Cen MT;
         font-size: 30px;
     }
 
@@ -96,10 +98,12 @@ footer {
 
 @media(max-width:991px) {
     .headline h1 {
+        font-family: Apple Chancery;
         font-size: 105px;
     }
 
     .headline h2 {
+        font-family: Tw Cen MT;
         font-size: 23px;
     }
 
@@ -145,10 +149,12 @@ footer {
 
 @media(max-width:668px) {
     .headline h1 {
+        font-family: Apple Chancery;
         font-size: 70px;
     }
 
     .headline h2 {
+        font-family: Tw Cen MT;
         font-size: 15px;
     }
     .featurette-image {
@@ -171,10 +177,12 @@ footer {
     }
 
     .headline h1 {
+        font-family: Apple Chancery;
         font-size: 60px;
     }
 
     .headline h2 {
+        font-family: Tw Cen MT;
         font-size: 13px;
     }
 }
