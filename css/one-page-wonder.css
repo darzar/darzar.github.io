@@ -108,8 +108,8 @@ footer {
     }
 
     .featurette-image {
-        max-width: 100%;
-        max-height: 100%;
+        max-width: 50%;
+        max-height: 50%;
     }
 
     .featurette-image.pull-left {
@@ -133,6 +133,10 @@ footer {
     .featurette-divider {
         margin: 40px 0;
     }
+    .featurette-image {
+        max-width: 50%;
+        max-height: 50%;
+    }
 
     .featurette-heading {
         font-size: 25px;
@@ -147,6 +151,10 @@ footer {
     .headline h2 {
         font-size: 15px;
     }
+    .featurette-image {
+        max-width: 50%;
+        max-height: 50%;
+    }
 
     .featurette-divider {
         margin: 30px 0;
@@ -156,6 +164,10 @@ footer {
 @media(max-width:640px) {
     .headline {
         padding: 75px 0 25px 0;
+    }
+    .featurette-image {
+        max-width: 50%;
+        max-height: 27%;
     }
 
     .headline h1 {
@@ -173,7 +185,8 @@ footer {
     }
 
     .featurette-image {
-        max-width: 100%;
+        max-width: 50%;
+        max-height: 35%;
     }
 
     .featurette-image.pull-left {
