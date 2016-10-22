@@ -49,14 +49,14 @@ body {
 }
 
 .featurette-image.pull-left {
-	height: 500px;
-	width: 500px;
+	height: 50%;
+	width: 50%;
     margin-right: 40px;
 }
 
 .featurette-image.pull-right {
-    height: 500px;
-    width: 500px;
+    height: 50%;
+    width: 50%;
     margin-left: 40px;
 }
 
@@ -173,7 +173,7 @@ footer {
     }
     .featurette-image {
         max-width: 50%;
-        max-height: 27%;
+        max-height: 50%;
     }
 
     .headline h1 {
@@ -193,8 +193,9 @@ footer {
     }
 
     .featurette-image {
+        max-height: 50%;
         max-width: 50%;
-        max-height: 35%;
+        
     }
 
     .featurette-image.pull-left {
